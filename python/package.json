@@ -1,0 +1,35 @@
+{
+  "name": "python",
+  "displayName": "Python",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "magicstack.MagicPython",
+    "ms-toolsai.jupyter",
+    "ms-python.debugpy",
+    "donjayamanne.python-environment-manager",
+    "KevinRose.vsc-python-indent",
+    "njqdev.vscode-python-typehint",
+    "njpwerner.autodocstring",
+    "kaih2o.python-resource-monitor",
+    "cstrap.python-snippets",
+    "ms-python.flake8",
+    "ms-python.autopep8",
+    "littlefoxteam.vscode-python-test-adapter",
+    "hbenl.vscode-test-explorer",
+    "LeoJhonSong.python-extension-pack",
+    "Swellaby.python-pack",
+    "ms-toolsai.tensorboard",
+    "ms-python.black-formatter",
+    "iterative.vscode-dvc-pack",
+    "ms-python.isort"
+  ]
+}
