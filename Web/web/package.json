@@ -1,0 +1,29 @@
+{
+  "name": "web",
+  "displayName": "Web",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "thebarkman.vscode-djaneiro",
+    "batisteo.vscode-django",
+    "bibhasdn.django-html",
+    "TaodongWu.ejs-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "sidthesloth.html5-boilerplate",
+    "ecmel.vscode-html-css",
+    "george-alisson.html-preview-vscode",
+    "walkme.HTML5-extension-pack",
+    "ritwickdey.LiveServer",
+    "rvest.vs-code-prettier-eslint",
+    "sibiraj-s.vscode-scss-formatter",
+    "mrmlnc.vscode-scss",
+    "antfu.vite"
+  ]
+}
