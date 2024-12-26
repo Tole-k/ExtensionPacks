@@ -2,7 +2,7 @@
   "name": "python",
   "displayName": "Python",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -21,13 +21,10 @@
     "njpwerner.autodocstring",
     "kaih2o.python-resource-monitor",
     "cstrap.python-snippets",
-    "ms-python.flake8",
-    "ms-python.autopep8",
     "LeoJhonSong.python-extension-pack",
     "ms-toolsai.tensorboard",
-    "ms-python.black-formatter",
     "iterative.vscode-dvc-pack",
-    "ms-python.isort"
+    "charliermarsh.ruff"
   ],
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
