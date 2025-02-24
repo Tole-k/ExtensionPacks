@@ -2,7 +2,7 @@
   "name": "python",
   "displayName": "Python",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -21,7 +21,8 @@
     "njpwerner.autodocstring",
     "kaih2o.python-resource-monitor",
     "cstrap.python-snippets",
-    "LeoJhonSong.python-extension-pack",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
     "ms-toolsai.tensorboard",
     "iterative.vscode-dvc-pack",
     "charliermarsh.ruff"
