@@ -1,6 +1,7 @@
 {
-  "name": "qlearning",
-  "displayName": "QLearning",
+  "name": "python-setup",
+  "displayName": "Python Setup",
+  "publisher": "anatolkaczmarek",
   "description": "",
   "version": "1.0.0",
   "engines": {
