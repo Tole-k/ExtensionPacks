@@ -16,7 +16,6 @@
     "magicstack.MagicPython",
     "ms-toolsai.jupyter",
     "ms-python.debugpy",
-    "donjayamanne.python-environment-manager",
     "KevinRose.vsc-python-indent",
     "njqdev.vscode-python-typehint",
     "njpwerner.autodocstring",
