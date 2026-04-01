@@ -2,8 +2,13 @@
   "name": "python-setup-pylint",
   "displayName": "Python Setup Pylint",
   "publisher": "anatolkaczmarek",
-  "description": "",
-  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tole-k/ExtensionPacks.git"
+  },
+  "description": "Python Workspace Setup for Pylint",
+  "version": "1.0.2",
+  "icon": "python.png",
   "engines": {
     "vscode": "^1.94.0"
   },

@@ -2,8 +2,13 @@
   "name": "python-setup-ruff",
   "displayName": "Python Setup Ruff",
   "publisher": "anatolkaczmarek",
-  "description": "",
-  "version": "1.0.1",
+  "description": "Python Workspace Setup for Ruff",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tole-k/ExtensionPacks.git"
+  },
+  "version": "1.0.2",
+  "icon": "python.png",
   "engines": {
     "vscode": "^1.94.0"
   },
