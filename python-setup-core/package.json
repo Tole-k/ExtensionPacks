@@ -7,7 +7,7 @@
     "url": "https://github.com/Tole-k/ExtensionPacks.git"
   },
   "description": "Core Python Extensions",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "python.png",
   "engines": {
     "vscode": "^1.94.0"
@@ -21,7 +21,6 @@
     "magicstack.MagicPython",
     "ms-toolsai.jupyter",
     "ms-python.debugpy",
-    "KevinRose.vsc-python-indent",
     "njqdev.vscode-python-typehint",
     "njpwerner.autodocstring",
     "kaih2o.python-resource-monitor",
