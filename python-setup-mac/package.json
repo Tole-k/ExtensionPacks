@@ -7,7 +7,7 @@
     "url": "https://github.com/Tole-k/ExtensionPacks.git"
   },
   "description": "python extensions for mac",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "python.png",
   "engines": {
     "vscode": "^1.110.0"
@@ -17,6 +17,7 @@
   ],
   "extensionPack": [
     "AnatolKaczmarek.python-setup-core",
-    "Dawid64.resource-warnings"
+    "Dawid64.resource-warnings",
+    "qt-kaneko.macos-native-copy-paste"
   ]
 }
