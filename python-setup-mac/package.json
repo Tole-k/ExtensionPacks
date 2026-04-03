@@ -1,0 +1,21 @@
+{
+  "name": "python-setup-mac",
+  "displayName": "python-setup-mac",
+  "publisher": "anatolkaczmarek",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tole-k/ExtensionPacks.git"
+  },
+  "description": "python extensions for mac",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "AnatolKaczmarek.python-setup-core",
+    "Dawid64.resource-warnings"
+  ]
+}
