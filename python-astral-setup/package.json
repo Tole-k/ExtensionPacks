@@ -1,0 +1,31 @@
+{
+  "name": "python-astral-setup",
+  "displayName": "Python Astral Setup",
+  "publisher": "anatolkaczmarek",
+  "description": "Python workspace setup utilizing astral.sh dev tools suite.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tole-k/ExtensionPacks.git"
+  },
+  "version": "1.0.0",
+  "icon": "python.png",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "magicstack.MagicPython",
+    "ms-toolsai.jupyter",
+    "ms-python.debugpy",
+    "njqdev.vscode-python-typehint",
+    "njpwerner.autodocstring",
+    "kaih2o.python-resource-monitor",
+    "hbenl.vscode-test-explorer",
+    "astral-sh.ty",
+    "charliermarsh.ruff"
+  ],
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
